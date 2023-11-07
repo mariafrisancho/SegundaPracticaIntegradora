@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"title": "Vino Seco",
+		"description": "Vinos Seco variedad ,cepa Negra Criolla",
+		"code": "VINSECOT01",
+		"price": 100,
+		"status": true,
+		"stock": 10,
+		"category": "Vinos",
+		"thumbnails": []
+	},
+	{
+		"id": 2,
+		"title": "Vinos Seco Blanco",
+		"description": "Vinos Seco  blanco Blend:cepa Negra Criolla ,cepa ceniza",
+		"code": "VINSECOB01",
+		"price": 120,
+		"status": true,
+		"stock": 15,
+		"category": "Vinos",
+		"thumbnails": []
+	},
+	{
+		"id": 3,
+		"title": "Vinos Seco Moscatel",
+		"description": "Vinos Seco variedad uva Moscatel",
+		"code": "VINSECOM01",
+		"price": 120,
+		"status": true,
+		"stock": 15,
+		"category": "Vinos",
+		"thumbnails": []
+	},
+	{
+		"id": 4,
+		"title": "Vinos Semiseco Tinto",
+		"description": "Vinos Semiseco  tinto Blend:cepa Negra Criolla ,cepa Moscatel",
+		"code": "VINSEMIT01",
+		"price": 120,
+		"status": true,
+		"stock": 15,
+		"category": "Vinos",
+		"thumbnails": []
+	},
+	{
+		"id": 5,
+		"title": "Vinos Semiseco Blanco",
+		"description": "Vinos Semiseco blanco Blend:cepa Negra Criolla ,cepa ceniza",
+		"code": "VINSEMIB01",
+		"price": 120,
+		"status": true,
+		"stock": 15,
+		"category": "Vinos",
+		"thumbnails": []
+	},
+	{
+		"id": 6,
+		"title": "Vinos Dulce tinto",
+		"description": "Vinos dulce  variedad cepa Moscatel",
+		"code": "VINDULCET01",
+		"price": 120,
+		"status": true,
+		"stock": 15,
+		"category": "Vinos",
+		"thumbnails": []
+	},
+	{
+		"id": 7,
+		"title": "Vinos Dulce Blanco",
+		"description": "Vinos Dulce  blanco Blend:cepa Moscatel ,cepa ceniza",
+		"code": "VINDULCEB01",
+		"price": 120,
+		"status": true,
+		"stock": 15,
+		"category": "Vinos",
+		"thumbnails": []
+	},
+	{
+		"id": 8,
+		"title": "Pisco Negra Criolla",
+		"description": "Pisco puro variedad negra criolla 42° de grado alcoholico",
+		"code": "PISCONC01",
+		"price": 150,
+		"status": true,
+		"stock": 15,
+		"category": "Piscos",
+		"thumbnails": []
+	},
+	{
+		"id": 9,
+		"title": "Pisco Moscatel",
+		"description": "Pisco puro variedad negra criolla 42° de grado alcoholico",
+		"code": "PISCOMOS01",
+		"price": 250,
+		"status": true,
+		"stock": 100,
+		"category": "Piscos",
+		"thumbnails": []
+	},
+	{
+		"id": 10,
+		"title": "Pisco Torontel",
+		"description": "Pisco puro variedad Moscatel 42° de grado alcoholico",
+		"code": "PISCOTO01",
+		"price": 250,
+		"status": true,
+		"stock": 15,
+		"category": "Piscos",
+		"thumbnails": []
+	},
+	{
+		"title": "Pisco Torontel",
+		"description": "Pisco puro variedad Moscatel 42° de grado alcoholico",
+		"code": "PISCOTO01",
+		"price": 150,
+		"status": true,
+		"stock": 15,
+		"thumbnails": [],
+		"id": 11
+	}
+]

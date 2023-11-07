@@ -1,0 +1,29 @@
+<h1>Pagina de Registro </h1>
+
+
+<p style="color: red;"> {{error}} </p>
+
+<form action="/api/sessions/signup" method="post">
+    <input type="text" name="firts_name" placeholder="Tu nombre"/>
+    <br/><br/>
+    <input type="text" name="last_name" placeholder="Tu apellido"/>
+    <br/><br/>
+    <input type="email" name="email" placeholder="Tu correo"/>
+    <br/><br/>
+    <input type="text" name="age" placeholder="Tu edad"/>
+    <br/><br/>
+    <input type="password" name="password" placeholder="Tu contraseña"/>
+    <br/><br/>
+
+    <button>Registrarse</button>
+
+
+</form>
+
+{{!-- <hr>
+<a href="/api/sessions/signup-github">
+<button>
+     Registrarse con Github
+</button>
+
+</a> --}}
